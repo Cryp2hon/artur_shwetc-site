@@ -53,7 +53,7 @@
 	  max-width: 225px;
 	}
 	.main-section-4 {
-	  margin-top: -300px;
+	  margin-top: -100px;
 	}
 	.main-section-5 .features-block-slide {
 	  min-width: 300px;
@@ -269,7 +269,7 @@
     }
     .main-section-4
     {
-        margin-top: -100px;
+        margin-top: -250px;
     }
     .main-section-4_card-block
     {
@@ -566,7 +566,7 @@
     }
     
    .main-section-3 {
-     background: url(../img/fon_for_2-block.png);
+     background: none;
      background-repeat: no-repeat;
      background-position: top center;
      background-size: 100%;
@@ -890,7 +890,7 @@
         position: absolute;
         max-height: 75px;
         margin-top: -14px;
-        margin-left: 260px;
+        margin-left: 267px;
     }
     .header-content-button button
     {
@@ -919,7 +919,7 @@
     }
 
    .main-section-3 {
-     background: url(../img/fon_for_2-block.png);
+     background: none;
      background-repeat: no-repeat;
      background-position: top center;
      background-size: 100%;
@@ -936,7 +936,7 @@
    }
    
     .main-section-4 {
-      margin-top: 20px;
+      margin-top: -20px;
     }
     .main-section-5-cards-block
     {
@@ -1011,7 +1011,7 @@
     }
 
    .main-section-3 {
-     background: url(../img/fon_for_2-block.png);
+     background: none;
      background-repeat: no-repeat;
      background-position: top center;
      background-size: 100%;
