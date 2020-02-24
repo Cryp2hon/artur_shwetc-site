@@ -1,0 +1,1 @@
+# ya_zaebalsya_s_etimi_adaptivami
